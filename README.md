@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Prakruthi G H</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">🚀 Passionate Full Stack Developer </h3>
 
 ## 👩‍💻  About Me
 💡  Passionate about exploring new technologies and building web applications with clean, user-friendly designs.\
