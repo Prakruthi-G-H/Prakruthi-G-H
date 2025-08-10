@@ -61,6 +61,8 @@
 ![Postman](https://img.shields.io/badge/Postman-0028d7.svg?style=flat&logo=postman&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
+
 
 </details>
 
