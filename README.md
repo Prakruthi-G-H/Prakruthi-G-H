@@ -92,7 +92,7 @@
   </a>
 </div>
 -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-Htheme=buefy-dark&hide_border=true&background=1a1b27"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=buefy-dark&hide_border=true&background=1a1b27"/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark)
 
