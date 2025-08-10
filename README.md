@@ -93,12 +93,11 @@
 </div>
 -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-Htheme=buefy-dark&hide_border=true&background=1a1b27"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Prakruthi-G-Hmargin-w=10&no-frame=true&row=2&theme=darkhub"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-Htheme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakruthi-G-Htheme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-Htheme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakruthi-G-H&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-H&theme=chartreuse_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-Htheme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-Htheme=chartreuse_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-H&theme=chartreuse_dark&utcOffset=8)
