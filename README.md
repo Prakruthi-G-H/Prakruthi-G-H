@@ -68,3 +68,25 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prakruthi-G-H&show_icons=true&locale=en&layout=compact" alt="Prakruthi-G-H" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prakruthi-G-H&show_icons=true&locale=en" alt="Prakruthi-G-H" /></p>
+
+### ⚙️ &nbsp;GitHub Analytics
+<!-- * 
+<div align="center">
+<a href="https://github.com/harshit1142">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prakruthi-G-Hshow_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prakruthi-G-Hhide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
+  <br/>
+  <br/>
+  </a>
+</div>
+-->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-Htheme=buefy-dark&hide_border=true&background=1a1b27"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Prakruthi-G-Hmargin-w=10&no-frame=true&row=2&theme=darkhub"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-Htheme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakruthi-G-Htheme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-Htheme=chartreuse_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-Htheme=chartreuse_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-Htheme=chartreuse_dark&utcOffset=8)
