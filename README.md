@@ -42,9 +42,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat&logo=github&logoColor=white)
 
 ### 📂 Projects 
-- [Employee Management System](https://github.com/Prakruthi-G-H/employee-management) - Java, JSP, Servlets project for managing employees.  
-- [Password Generator](https://github.com/Prakruthi-G-H/password-generator) - A simple JS-based secure password generator.
-  
+
+- [Employee Management System](https://github.com/Prakruthi-G-H/Employee-Management-System) — Full-stack Java web app with JSP, Servlets, JDBC, and MySQL.  
+- [Password Generator](https://github.com/Prakruthi-G-H/Password-Generator) — JavaScript based secure password generator tool.
+- [Daily Task Manager](https://github.com/Prakruthi-G-H/Daily-task-manager) — Interactive to-do list app using HTML, CSS, and JavaScript.  
+- [Photography Portfolio](https://github.com/Prakruthi-G-H/Photography-portfolio) — Responsive portfolio website showcasing photography skills.  
+- [BMW Homepage Clone](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone) — Static clone built with HTML & CSS.  
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
