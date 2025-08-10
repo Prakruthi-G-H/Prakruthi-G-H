@@ -40,14 +40,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/database-1.svg" alt="JDBC" width="40" height="40"/>
-  </a>
+ <a href="https://www.oracle.com/database/technologies/appdev/jdbc.html" target="_blank" rel="noreferrer">
+  <img src="https://www.oracle.com/database/technologies/appdev/jdbc-logo.png" alt="JDBC" width="40" height="40"/>
+</a>
   <a href="https://hibernate.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="Spring Boot" width="40" height="40"/>
