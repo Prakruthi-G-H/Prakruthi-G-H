@@ -47,7 +47,8 @@
 - [Password Generator](https://github.com/Prakruthi-G-H/Password-Generator) — JavaScript based secure password generator tool.
 - [Daily Task Manager](https://github.com/Prakruthi-G-H/Daily-task-manager) — Interactive to-do list app using HTML, CSS, and JavaScript.  
 - [Photography Portfolio](https://github.com/Prakruthi-G-H/Photography-portfolio) — Responsive portfolio website showcasing photography skills.  
-- [BMW Homepage Clone](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone) — Static clone built with HTML & CSS.  
+- [BMW Homepage Clone](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone) — Static clone built with HTML & CSS.
+- [Pizza Hut Clone](https://github.com/Prakruthi-G-H/Pizza-hut-clone) — Responsive static front-end replica of Pizza Hut website built with HTML and CSS.
 
 
 ### ⚙️ &nbsp;GitHub Analytics
