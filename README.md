@@ -3,10 +3,10 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 ## 👩‍💻  About Me
-💡  &nbsp;  Passionate about exploring new technologies and building web applications with clean, user-friendly designs.
-🎓   &nbsp; Currently learning and working on projects to strengthen my skills in Java Full Stack Development.
-🌱   &nbsp;  Focused on mastering Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS, and modern UI/UX practices.
-🚀  Love turning ideas into functional projects, from small utilities to complete web applications.
+💡  Passionate about exploring new technologies and building web applications with clean, user-friendly designs.\
+🎓  Currently learning and working on projects to strengthen my skills in Java Full Stack Development.\
+🌱  Focused on mastering Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS, and modern UI/UX practices.\
+🚀  Love turning ideas into functional projects, from small utilities to complete web applications.\
 ✉️  Reach me at: kruthigh286@gmail.com
 
 <p align="left"> 
