@@ -6,8 +6,8 @@
 💡  Passionate about exploring new technologies and building web applications with clean, user-friendly designs.\
 🎓  Currently learning and working on projects to strengthen my skills in Java Full Stack Development.\
 🌱  Focused on mastering Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS, and modern UI/UX practices.\
-🚀  Love turning ideas into functional projects, from small utilities to complete web applications.\
-✉️  Reach me at: kruthigh286@gmail.com
+🚀  💼  Currently focused on building scalable full-stack web applications and mastering best development practices.\
+✉️  Reach me at: [kruthigh286@gmail.com](mailto:kruthigh286@gmail.com)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Prakruthi-G-H&label=Profile%20views&color=0e75b6&style=flat" alt="Prakruthi-G-H" /> 
@@ -41,7 +41,10 @@
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat&logo=github&logoColor=white)
 
-
+### 📂 Projects 
+- [Employee Management System](https://github.com/Prakruthi-G-H/employee-management) - Java, JSP, Servlets project for managing employees.  
+- [Password Generator](https://github.com/Prakruthi-G-H/password-generator) - A simple JS-based secure password generator.
+  
 
 ### ⚙️ &nbsp;GitHub Analytics
 
