@@ -3,11 +3,11 @@
 <h3 align="center">🚀 Passionate Full Stack Developer </h3>
 
 ## 👩‍💻  About Me
-💡  Passionate about exploring new technologies and building web applications with clean, user-friendly designs.\
-🎓  Currently learning and working on projects to strengthen my skills in Java Full Stack Development.\
-🌱  Focused on mastering Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS, and modern UI/UX practices.\
-🚀  💼  Currently focused on building scalable full-stack web applications and mastering best development practices.\
-✉️  Reach me at: [kruthigh286@gmail.com](mailto:kruthigh286@gmail.com)
+💡 Passionate about exploring new technologies and building web applications with clean, user-friendly designs.<br>
+🎓 Currently learning and working on projects to strengthen my skills in Java Full Stack Development.<br>
+🌱 Focused on mastering Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS, and modern UI/UX practices.<br>
+💼 Currently focused on building scalable full-stack web applications and mastering best development practices.<br>
+✉️ Reach me at: [kruthigh286@gmail.com](mailto:kruthigh286@gmail.com)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Prakruthi-G-H&label=Profile%20views&color=0e75b6&style=flat" alt="Prakruthi-G-H" /> 
