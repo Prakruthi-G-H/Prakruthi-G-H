@@ -53,8 +53,7 @@
 
 ## 📂 Live Projects  
 
-### 🍕 Pizza Hut Clone : Responsive static front-end replica of the Pizza Hut website built with HTML and CSS.  
-🔗 **[Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)** | 📂 [Source Code](https://github.com/Prakruthi-G-H/Pizza-hut-clone)  
+- Pizza Hut Clone :   🔗 **[Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)** | 📂 [Source Code](https://github.com/Prakruthi-G-H/Pizza-hut-clone)  
 
 
 ### ⚙️ &nbsp;GitHub Analytics
