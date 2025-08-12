@@ -50,10 +50,11 @@
 - [BMW Homepage Clone](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone) — Static clone built with HTML & CSS.
 - [Pizza Hut Clone](https://github.com/Prakruthi-G-H/Pizza-hut-clone) — Responsive static front-end replica of Pizza Hut website built with HTML and CSS.
 
-### 🍕 Pizza Hut Clone  
-Responsive static front-end replica of the Pizza Hut website built with HTML and CSS.  
+
+## 📂 Live Projects  
+
+### 🍕 Pizza Hut Clone : Responsive static front-end replica of the Pizza Hut website built with HTML and CSS.  
 🔗 **[Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/)** | 📂 [Source Code](https://github.com/Prakruthi-G-H/Pizza-hut-clone)  
-![Pizza Hut Clone](https://github.com/Prakruthi-G-H/Pizza-hut-clone/blob/main/images/preview.png)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
