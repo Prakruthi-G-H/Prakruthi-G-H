@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Prakruthi G H</h1>
 <h3 align="center">🚀 Passionate Full Stack Developer </h3>
 
