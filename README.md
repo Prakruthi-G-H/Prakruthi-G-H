@@ -52,7 +52,7 @@
 
 ## ⭐ Live Projects
 🍕 Pizza Hut Clone — 🔗 [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/Pizza-hut-clone)  
-🚗 BMW Homepage Clone - 🔗[Live Demo](https://prakruthi-g-h.github.io/BMW-Homepage-Clone/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone/)
+🚗 BMW Homepage Clone - 🔗[Live Demo](https://prakruthi-g-h.github.io/BMW-Homepage-Clone/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone/) 
 📸 Photography Portfolio - 🔗[Live Demo](https://prakruthi-g-h.github.io/Photography-portfolio/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/Photography-portfolio/)
 
 
