@@ -50,14 +50,6 @@
 - [Pizza Hut Clone](https://github.com/Prakruthi-G-H/Pizza-hut-clone) — Responsive static front-end replica of Pizza Hut website built with HTML and CSS.
 
 
-## ⭐ Live Projects
-- 🍕 Pizza Hut Clone — 🔗 [Live Demo](https://prakruthi-g-h.github.io/Pizza-hut-clone/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/Pizza-hut-clone)  
-- 🚗 BMW Homepage Clone - 🔗[Live Demo](https://prakruthi-g-h.github.io/BMW-Homepage-Clone/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone/) 
-- 📸 Photography Portfolio - 🔗[Live Demo](https://prakruthi-g-h.github.io/Photography-portfolio/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/Photography-portfolio/)
-- 📋 Daily Task Manager -  🔗[Live Demo](https://prakruthi-g-h.github.io/Daily-task-manager/) | 📂 [Source Code](https://github.com/Prakruthi-G-H/Daily-task-manager)
-
-
-
 ### ⚙️ &nbsp;GitHub Analytics
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=buefy-dark&hide_border=true&background=1a1b27"/>
