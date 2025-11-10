@@ -51,30 +51,6 @@
 - [Pizza Hut Clone](https://github.com/Prakruthi-G-H/Pizza-hut-clone) —  Developed a responsive front-end replica of the Pizza Hut website using HTML and CSS.
 
 
-### ⚙️ &nbsp;GitHub Analytics
-
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=buefy-dark&hide_border=true&background=1a1b27"/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakruthi-G-H&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-H&theme=chartreuse_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-H&theme=chartreuse_dark&utcOffset=8) 
-
-### ⚙️ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=chartreuse-dark&hide_border=true" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-H&theme=chartreuse_dark&utcOffset=8" />
-</p>
-
 ### ⚙️ GitHub Analytics  
 
 <p align="center">
