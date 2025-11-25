@@ -14,6 +14,13 @@
 </p>
 
 
+## Connect with Me
+
+- LinkedIn:   <a href="https://linkedin.com/in/prakruthi-g-h" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakruthi-g-h" height="30" width="40" />
+  </a>
+
+
 ### 🚀 Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
