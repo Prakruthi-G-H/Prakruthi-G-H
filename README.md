@@ -23,7 +23,7 @@
 - Email : [kruthigh286@gmail.com](mailto:kruthigh286@gmail.com)
 
 - HackerRank :   <a href="https://www.hackerrank.com/prakruthigh28" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakruthigh28" height="15" width="20" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakruthigh28" height="20" width="20" />
   </a>
 
 
