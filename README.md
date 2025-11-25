@@ -17,7 +17,7 @@
 ## Connect with Me
 
 - LinkedIn:   <a href="https://linkedin.com/in/prakruthi-g-h" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakruthi-g-h" height="20" width="20" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakruthi-g-h" height="30" width="20" />
   </a>
 
 - Email : [kruthigh286@gmail.com](mailto:kruthigh286@gmail.com)
