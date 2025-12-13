@@ -46,7 +46,7 @@
 ### 📂 Projects 
 
 - [Employee Management System](https://github.com/Prakruthi-G-H/employee-management-system) — Developed a full-stack Java web app using JSP, Servlets, JDBC, and MySQL . 
-- [Password Generator](https://github.com/Prakruthi-G-H/Password-Generator) — Created a secure and customizable password generator using JavaScript.
+- [Password Generator](https://github.com/Prakruthi-G-H/password-generator) — Created a secure and customizable password generator using JavaScript.
 - [Daily Task Manager](https://github.com/Prakruthi-G-H/daily-task-manager) — Built an interactive to-do list web app with HTML, CSS, and JavaScript.   
 - [Photography Portfolio](https://github.com/Prakruthi-G-H/photography-portfolio) — Designed a responsive portfolio website showcasing photography skills.   
 - [BMW Homepage Clone](https://github.com/Prakruthi-G-H/bmw-homepage-clone) — Recreated the BMW homepage using only HTML and CSS. 
