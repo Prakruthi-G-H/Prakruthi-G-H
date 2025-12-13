@@ -50,7 +50,7 @@
 - [Daily Task Manager](https://github.com/Prakruthi-G-H/Daily-task-manager) — Built an interactive to-do list web app with HTML, CSS, and JavaScript.   
 - [Photography Portfolio](https://github.com/Prakruthi-G-H/photography-portfolio) — Designed a responsive portfolio website showcasing photography skills.   
 - [BMW Homepage Clone](https://github.com/Prakruthi-G-H/BMW-Homepage-Clone) — Recreated the BMW homepage using only HTML and CSS. 
-- [Pizza Hut Clone](https://github.com/Prakruthi-G-H/Pizza-hut-clone) —  Developed a responsive front-end replica of the Pizza Hut website using HTML and CSS.
+- [Pizza Hut Clone](https://github.com/Prakruthi-G-H/pizza-hut-clone) —  Developed a responsive front-end replica of the Pizza Hut website using HTML and CSS.
 
 
 ### ⚙️ GitHub Analytics  
