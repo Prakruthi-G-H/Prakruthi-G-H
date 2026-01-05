@@ -7,7 +7,7 @@
 🎓 Currently enhancing my skills in **Java Full Stack Development** through hands-on projects. <br>
 🌱 Focused on mastering **Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS**, and modern UI/UX practices.<br>
 💼 Dedicated to writing efficient, maintainable code and following best software development practices.<br>
-📫 Reach me at: [kruthigh286@gmail.com](mailto:kruthigh286@gmail.com)
+📫 Reach me at: [prakruthigh28@gmail.com](mailto:prakruthigh28@gmail.com)
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Prakruthi-G-H&label=Profile%20views&color=0e75b6&style=flat" alt="Prakruthi-G-H" /> 
