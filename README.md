@@ -22,7 +22,7 @@
 ### 👩‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) (Basics)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) 
 
 ---
 
