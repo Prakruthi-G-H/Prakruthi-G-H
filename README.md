@@ -16,32 +16,60 @@
 
 
 
-### 🚀 Languages & Frameworks
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) (Basics)
+
+---
+
+### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
+
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396.svg?style=flat&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat&logo=api&logoColor=white)
 
-### 🛢️ Databases
+---
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
-![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=flat&logo=oracle&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+
+---
+
+### ⚙️ Core Concepts
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-009688.svg?style=flat)
+![MVC](https://img.shields.io/badge/MVC-795548.svg?style=flat)
+![CRUD](https://img.shields.io/badge/CRUD-607D8B.svg?style=flat)
+
+---
 
 ### 🛠️ Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?style=flat&logo=eclipse&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=flat&logo=intellijidea&logoColor=white)
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=flat&logo=github&logoColor=white)
+
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7.svg?style=flat&logo=netlify&logoColor=white)
+
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000.svg?style=flat&logo=oracle&logoColor=white)
 
 ### 📂 Projects 
 
