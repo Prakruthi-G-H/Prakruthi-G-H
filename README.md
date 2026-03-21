@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) 
 
----
+
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -38,13 +38,13 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat&logo=api&logoColor=white)
 
----
+
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat&logo=oracle&logoColor=white)
 
----
+
 
 ### ⚙️ Core Concepts
 ![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
@@ -52,7 +52,6 @@
 ![MVC](https://img.shields.io/badge/MVC-795548.svg?style=flat)
 ![CRUD](https://img.shields.io/badge/CRUD-607D8B.svg?style=flat)
 
----
 
 ### 🛠️ Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
