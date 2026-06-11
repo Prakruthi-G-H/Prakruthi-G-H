@@ -56,6 +56,10 @@
 ![OOP](https://img.shields.io/badge/OOP-009688.svg?style=flat)
 ![MVC](https://img.shields.io/badge/MVC-795548.svg?style=flat)
 ![CRUD](https://img.shields.io/badge/CRUD-607D8B.svg?style=flat)
+![Collections](https://img.shields.io/badge/Collections%20Framework-3F51B5.svg?style=flat)
+![Exception Handling](https://img.shields.io/badge/Exception%20Handling-FF9800.svg?style=flat)
+![Multithreading](https://img.shields.io/badge/Multithreading-9C27B0.svg?style=flat)
+![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50.svg?style=flat)
 
 
 ### 🛠️ Tools & IDEs
