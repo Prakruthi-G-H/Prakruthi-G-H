@@ -6,7 +6,7 @@
 💡 Passionate about exploring new technologies and building scalable web applications with clean, user-friendly designs.<br>
 💻 Hands-on experience in developing web applications using Java, Spring Boot, Hibernate, JSP, Servlets, JDBC, MySQL, HTML, CSS, JavaScript, and React.<br>
 🌱 Currently strengthening my skills in Spring Boot, REST APIs, React, and Full Stack Development. <br>
-🌱 Focused on mastering **Java, Spring Boot, Hibernate, JSP, MySQL, HTML, CSS, React**, and modern UI/UX practices. <br>
+🚀 Passionate about creating efficient, maintainable, and scalable software solutions. <br>
 💼 Dedicated to writing efficient, maintainable code and following best software development practices.<br>
 📫 Reach me at: [prakruthigh286@gmail.com](mailto:prakruthigh286@gmail.com)
 
