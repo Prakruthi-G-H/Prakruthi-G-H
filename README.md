@@ -33,6 +33,10 @@
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?style=flat&logo=tailwindcss&logoColor=white)
 
+
+### ⚙️ Backend Technologies
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396.svg?style=flat&logo=java&logoColor=white)
 ![Servlets](https://img.shields.io/badge/Servlets-007396.svg?style=flat&logo=java&logoColor=white)
