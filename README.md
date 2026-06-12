@@ -110,6 +110,10 @@
 
 <hr/>
 
+
+<h3 align="left">🏆 Coding Profiles:</h3>
+
+
 <h3 align="left">Connect with me:</h3>
 
 - LinkedIn:   <a href="https://linkedin.com/in/prakruthi-g-h" target="blank">
