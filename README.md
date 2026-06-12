@@ -113,6 +113,14 @@
 
 <h3 align="left">🏆 Coding Profiles:</h3>
 
+<p align="left">
+<a href="https://www.hackerrank.com/prakruthigh28" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakruthigh28" height="30" width="40" />
+</a>
+<a href="https://github.com/Prakruthi-G-H" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Prakruthi-G-H" height="30" width="40" />
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 
