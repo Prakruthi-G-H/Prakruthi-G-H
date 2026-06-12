@@ -119,8 +119,7 @@
   </a>
 
   
-- GitHub: <a href="https://github.com/Prakruthi-G-H" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Prakruthi-G-H" height="30" width="40" />
+- GitHub: <a href="https://github.com/Prakruthi-G-H" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Prakruthi-G-H" height="30" width="40" />
 </a>
 </p>
 
