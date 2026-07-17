@@ -52,15 +52,14 @@
 
 
 ### ⚙️ Core Concepts
-![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-009688.svg?style=flat)
-![MVC](https://img.shields.io/badge/MVC-795548.svg?style=flat)
-![CRUD](https://img.shields.io/badge/CRUD-607D8B.svg?style=flat)
-![Collections](https://img.shields.io/badge/Collections%20Framework-3F51B5.svg?style=flat)
+![Collections](https://img.shields.io/badge/Collections-3F51B5.svg?style=flat)
 ![Exception Handling](https://img.shields.io/badge/Exception%20Handling-FF9800.svg?style=flat)
 ![Multithreading](https://img.shields.io/badge/Multithreading-9C27B0.svg?style=flat)
-![Database Design](https://img.shields.io/badge/Database%20Design-4CAF50.svg?style=flat)
-
+![MVC](https://img.shields.io/badge/MVC-795548.svg?style=flat)
+![CRUD](https://img.shields.io/badge/CRUD-607D8B.svg?style=flat)
+![REST APIs](https://img.shields.io/badge/REST_APIs-4CAF50.svg?style=flat)
+![DSA](https://img.shields.io/badge/DSA-2196F3.svg?style=flat)
 
 ### 🛠️ Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
