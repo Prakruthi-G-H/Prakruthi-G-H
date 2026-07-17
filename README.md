@@ -36,13 +36,12 @@
 
 
 ### ⚙️ Backend Technologies
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396.svg?style=flat&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-007396.svg?style=flat&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=flat&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat&logo=api&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396.svg?style=flat&logo=openjdk&logoColor=white)
+![Servlets](https://img.shields.io/badge/Servlets-007396.svg?style=flat&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396.svg?style=flat&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B.svg?style=flat)
 
 
 
