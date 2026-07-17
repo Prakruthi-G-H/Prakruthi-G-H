@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakruthi G H</h1>
-<h3 align="center">🚀 Java Full Stack Developer | Spring Boot Enthusiast | Lifelong Learner</h3>
-
+<h3 align="center">🚀 Java Full Stack Developer | Spring Boot Enthusiast | Continuous Learner</h3>
 
 ## 👩‍💻  About Me
 💡 Passionate about exploring new technologies and building scalable web applications with clean, user-friendly designs.<br>
