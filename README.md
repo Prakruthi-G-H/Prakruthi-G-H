@@ -76,12 +76,48 @@
 
 ### 📂 Projects 
 
-- [Employee Management System](https://github.com/Prakruthi-G-H/employee-management-system) — Developed a full-stack Java web app using JSP, Servlets, JDBC, and MySQL . 
-- [Password Generator](https://github.com/Prakruthi-G-H/password-generator) — Created a secure and customizable password generator using JavaScript.
-- [Daily Task Manager](https://github.com/Prakruthi-G-H/daily-task-manager) — Built an interactive to-do list web app with HTML, CSS, and JavaScript.   
-- [Photography Portfolio](https://github.com/Prakruthi-G-H/photography-portfolio) — Designed a responsive portfolio website showcasing photography skills.   
-- [BMW Homepage Clone](https://github.com/Prakruthi-G-H/bmw-homepage-clone) — Recreated the BMW homepage using only HTML and CSS. 
-- [Pizza Hut Clone](https://github.com/Prakruthi-G-H/pizza-hut-clone) —  Developed a responsive front-end replica of the Pizza Hut website using HTML and CSS.
+### 🚀 Employee Management System
+**Java | JSP | Servlets | JDBC | MySQL**
+
+🔹 Developed a CRUD-based Employee Management System using Java EE technologies following the MVC architecture.
+
+🔗 https://github.com/Prakruthi-G-H/employee-management-system
+
+---
+
+### 🔐 Password Generator
+**HTML | CSS | JavaScript**
+
+🔹 Built a secure password generator with customizable password length and character options.
+
+🔗 https://github.com/Prakruthi-G-H/password-generator
+
+---
+
+### ✅ Daily Task Manager
+**HTML | CSS | JavaScript**
+
+🔹 Developed an interactive task management application with dynamic DOM manipulation.
+
+🔗 https://github.com/Prakruthi-G-H/daily-task-manager
+
+---
+
+### 📸 Photography Portfolio
+**HTML | CSS**
+
+🔹 Designed a responsive portfolio website showcasing photography work with a clean user interface.
+
+🔗 https://github.com/Prakruthi-G-H/photography-portfolio
+
+---
+
+### 🚗 BMW Homepage Clone
+**HTML | CSS**
+
+🔹 Recreated the BMW homepage with a responsive layout using HTML and CSS.
+
+🔗 https://github.com/Prakruthi-G-H/bmw-homepage-clone
 
 
 ### ⚙️ GitHub Analytics  
