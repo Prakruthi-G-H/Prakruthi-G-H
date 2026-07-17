@@ -86,10 +86,12 @@
 ### ⚙️ GitHub Analytics  
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=chartreuse-dark&hide_border=true" />
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark" />
-</p>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=chartreuse-dark&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark"/>
+
+</p>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark" />
 </p>
