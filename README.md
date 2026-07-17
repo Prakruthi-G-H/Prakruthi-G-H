@@ -20,9 +20,10 @@
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python(Basic)-3776AB.svg?style=flat&logo=python&logoColor=white)
 
 
 
