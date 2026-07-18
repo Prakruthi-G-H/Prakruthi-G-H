@@ -75,7 +75,7 @@
 
 ### 📂 Projects 
 
-- [Employee Management System](https://github.com/Prakruthi-G-H/employee-management-system) — Developed a full-stack Java web app using JSP, Servlets, JDBC, and MySQL .
+- [Employee Management System](https://github.com/Prakruthi-G-H/employee-management-system) — Developed a CRUD-based Employee Management System using Java, JSP, Servlets, JDBC, and MySQL following the MVC architecture.
 - [Password Generator](https://github.com/Prakruthi-G-H/password-generator) — Created a secure and customizable password generator using JavaScript.
 - [Daily Task Manager](https://github.com/Prakruthi-G-H/daily-task-manager) — Built an interactive to-do list web app with HTML, CSS, and JavaScript.
 - [Photography Portfolio](https://github.com/Prakruthi-G-H/photography-portfolio) — Designed a responsive portfolio website showcasing photography skills.
