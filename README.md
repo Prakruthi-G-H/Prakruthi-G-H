@@ -101,25 +101,26 @@
 </p>
 <hr/>
 
-
-<h3 align="left">🏆 Coding Profiles:</h3>
+## 🏆 Coding Profiles
 
 <p align="left">
-HackerRank :   <a href="https://www.hackerrank.com/prakruthigh28" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prakruthigh28" height="30" width="40" />
+  <a href="https://www.hackerrank.com/prakruthigh28" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
-  
-GitHub: <a href="https://github.com/Prakruthi-G-H" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Prakruthi-G-H" height="30" width="40" />
-</a>
+  <a href="https://github.com/Prakruthi-G-H" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## 🤝 Connect with Me
 
-LinkedIn:   <a href="https://linkedin.com/in/prakruthi-g-h" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakruthi-g-h" height="13" width="20" />
+<p align="left">
+  <a href="https://linkedin.com/in/prakruthi-g-h" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-Email : [prakruthigh286@gmail.com](mailto:prakruthigh286@gmail.com)
-
-
+  <a href="mailto:prakruthigh286@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
