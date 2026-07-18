@@ -97,8 +97,8 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-H&theme=chartreuse_dark" />
 </p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-H&theme=chartreuse_dark&utcOffset=8" />
-</p> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Prakruthi-G-H&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+</p>
 <hr/>
 
 
