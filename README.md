@@ -82,23 +82,26 @@
 - [BMW Homepage Clone](https://github.com/Prakruthi-G-H/bmw-homepage-clone) — Recreated the BMW homepage using only HTML and CSS.
 - [Pizza Hut Clone](https://github.com/Prakruthi-G-H/pizza-hut-clone) — Developed a responsive front-end replica of the Pizza Hut website using HTML and CSS.
 
-### ⚙️ GitHub Analytics  
+### ⚙️ GitHub Analytics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=chartreuse-dark&hide_border=true"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark"/>
+</p>
 
-<p align="center"> 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakruthi-G-H&theme=chartreuse-dark&hide_border=true" /> 
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prakruthi-G-H&theme=chartreuse_dark" /> 
-</p> 
-<p align="center"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark" /> 
-</p>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakruthi-G-H&theme=chartreuse_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-H&theme=chartreuse_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakruthi-G-H&theme=chartreuse_dark"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prakruthi-G-H&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prakruthi-G-H&theme=chartreuse_dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prakruthi-G-H&theme=chartreuse_dark"/>
 </p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prakruthi-G-H&theme=chartreuse_dark&utcOffset=5.5"/>
+</p>
+
 <hr/>
 
 ## 🏆 Coding Profiles
