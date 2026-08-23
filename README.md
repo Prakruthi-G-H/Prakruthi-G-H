@@ -116,7 +116,7 @@
   </a>
 </p>
 
-## 🤝 Connect with Me
+## 🤝Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/prakruthi-g-h" target="_blank">
